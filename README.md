@@ -5,7 +5,7 @@ Use ProgressBar with timer to increase value at specific time
 Soucre :- https://stackoverflow.com/a/51314018/10422074
 
 
-```
+```swift
 import UIKit
 
 class ViewController: UIViewController {
